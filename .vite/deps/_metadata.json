@@ -1,0 +1,64 @@
+{
+  "hash": "a83f03d6",
+  "configHash": "18cbeeb6",
+  "lockfileHash": "a86f53db",
+  "browserHash": "f2629bcc",
+  "optimized": {
+    "@google/generative-ai": {
+      "src": "../../node_modules/@google/generative-ai/dist/index.mjs",
+      "file": "@google_generative-ai.js",
+      "fileHash": "058c9703",
+      "needsInterop": false
+    },
+    "d3": {
+      "src": "../../node_modules/d3/src/index.js",
+      "file": "d3.js",
+      "fileHash": "dcafd73e",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../node_modules/lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "2bf0bdd8",
+      "needsInterop": false
+    },
+    "pptxgenjs": {
+      "src": "../../node_modules/pptxgenjs/dist/pptxgen.es.js",
+      "file": "pptxgenjs.js",
+      "fileHash": "ed8b7f75",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "aaea8c18",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "8cc8b144",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "1645119c",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "browser-external_node_fs-edSPA3ra": {
+      "file": "browser-external_node_fs-edSPA3ra.js",
+      "isDynamicEntry": true
+    },
+    "browser-external_node_https-D2SKRcKP": {
+      "file": "browser-external_node_https-D2SKRcKP.js",
+      "isDynamicEntry": true
+    },
+    "rolldown-runtime-B4lejLz5": {
+      "file": "rolldown-runtime-B4lejLz5.js",
+      "isDynamicEntry": false
+    }
+  }
+}
