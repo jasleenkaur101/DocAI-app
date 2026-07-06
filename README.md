@@ -1,6 +1,6 @@
-# NoteAI
+# DocAI
 
-NoteAI is a document intelligence app for PDFs. Upload one or more PDFs and it lets you chat with them, generate summary notes, build an interactive knowledge graph of the key topics, and turn the content into a downloadable slide presentation — all powered by the Gemini API.
+DocAI is a document intelligence app for PDFs. Upload one or more PDFs and it lets you chat with them, generate summary notes, build an interactive knowledge graph of the key topics, and turn the content into a downloadable slide presentation — all powered by the Gemini API.
 
 ## Features
 
