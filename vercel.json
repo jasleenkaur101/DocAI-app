@@ -2,6 +2,6 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "env": {
-    "VITE_BASE_PATH": "/"
+    "VITE_DEPLOY_PLATFORM": "vercel"
   }
 }
