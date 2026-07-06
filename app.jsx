@@ -433,7 +433,7 @@ Rules:
     <div className={`${darkMode ? 'dark' : ''} h-screen flex flex-col`}>
       <div className="flex-1 flex flex-col bg-white dark:bg-gray-900 text-gray-900 dark:text-white transition-colors duration-200 min-h-0">
         <header className="border-b dark:border-gray-700 p-4 flex items-center justify-between">
-          <h1 className="font-bold text-xl">NoteAI</h1>
+          <h1 className="font-bold text-xl">DocAI</h1>
           <button onClick={() => setDarkMode(!darkMode)} className="p-2 rounded-full hover:bg-gray-200 dark:hover:bg-gray-700">
             {darkMode ? <Sun size={20} /> : <Moon size={20} />}
           </button>
